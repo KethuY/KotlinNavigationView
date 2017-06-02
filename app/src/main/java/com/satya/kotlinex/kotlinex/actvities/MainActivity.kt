@@ -1,9 +1,10 @@
-package com.satya.kotlinex
+package com.satya.kotlinex.kotlinex.actvities
 
 import android.os.Bundle
 import android.support.design.widget.BottomNavigationView
 import android.support.v7.app.AppCompatActivity
 import android.widget.TextView
+import com.satya.kotlinex.R
 
 class MainActivity : AppCompatActivity() {
 
